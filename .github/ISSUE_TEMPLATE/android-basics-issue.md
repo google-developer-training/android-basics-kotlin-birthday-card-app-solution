@@ -24,8 +24,8 @@ assignees: ''
 3. See error...
 
 **Versions**
-_Android Studio version: _
-_API version of the emulator: _
+_Android Studio version:_ 
+_API version of the emulator:_ 
 
 
 **Additional information**
